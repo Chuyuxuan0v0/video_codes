@@ -8,3 +8,7 @@
       <!-- 注意，可以将自己的视频链接修改。 -->
     </video>
 ```
+2020年5月8日更新
+----
+# 增加了可以控制视频声音播放的按钮
+![](https://gitee.com/chuyuxuan/tuc/raw/master/gitee/demo.jpg)
