@@ -1,6 +1,7 @@
 # B站的动态视频网站源码
 # 视频地址 [avav63344394](https://www.bilibili.com/video/av63344394)
 # 视频就外链自己的视频，放在里面的视频有点大，看情况下载吧。
+# 演示地址[http://demo.chuyuxuan.xyz](http://demo.chuyuxuan.xyz)
 # 视频修改请到`index.html`中，找到一下代码：
 ```html
  <video  muted autoplay loop>
